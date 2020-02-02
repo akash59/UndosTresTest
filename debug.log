@@ -1,0 +1,8 @@
+2020-02-02 21:23:21.304 INFO - Verifying if the user is on the landing page
+2020-02-02 21:23:21.534 INFO - Select operator as Telcel
+2020-02-02 21:23:23.852 INFO - Entering number in the field as By.xpath: .//div[@to-do='mobile']//input[@name='mobile']
+2020-02-02 21:23:24.448 INFO - Selecting recharge amount
+2020-02-02 21:23:25.992 INFO - Proceed to recharge mobile..
+2020-02-02 21:23:39.566 INFO - Entering the Card details...
+2020-02-02 21:23:42.374 INFO - Verifying if confirmation popup is opened on the page
+2020-02-02 21:23:43.478 INFO - Entering details in the popup present on the page
